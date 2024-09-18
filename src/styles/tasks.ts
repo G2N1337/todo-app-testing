@@ -67,7 +67,8 @@ export const TaskListFooter = styled.div`
   align-items: center;
   background-color: white;
   position: relative; 
-  z-index: 2
+  z-index: 2;
+  padding: 0px 4px;
 `;
 
 export const ShadowLayer = styled.div`
